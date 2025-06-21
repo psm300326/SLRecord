@@ -32,8 +32,9 @@ button.bg-green-600{
 
 @media only screen and (max-width: 600px) {
 #root canvas{
- width: 98% !important;
- height: 400px !important;
- padding-right: 20px;
+ width: 93% !important;
+        height: 400px !important;
+        padding-right: 86px;
+        margin-right: 10px;
 }
 }

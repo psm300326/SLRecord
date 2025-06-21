@@ -57,6 +57,7 @@ export default function AngleCalculator() {
     ctx.lineTo(...D);
     ctx.closePath();
     ctx.strokeStyle = "#000";
+    ctx.lineWidth = 3; 
     ctx.stroke();
 
     // Labels
