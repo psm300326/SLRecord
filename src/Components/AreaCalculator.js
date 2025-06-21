@@ -39,7 +39,7 @@ export default function AreaCalculator() {
         </div>
         <button
           onClick={calculateArea}
-          className="bg-blue-600 text-white px-4 py-2 rounded w-full"
+          className="bg-green-600 text-white px-4 py-2 rounded w-full"
         >
           Calculate Area
         </button>

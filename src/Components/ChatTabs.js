@@ -6,9 +6,10 @@ import HectareToBiswa from "./HectareToBiswa";
 import AngleCalculator from "./AngleCalculator";
 
 const tabComponents = {
-  "Area Calculator": <AreaCalculator />,
-  "Hectare To Biswa": <HectareToBiswa />,
   "Land Area Calculator": <AngleCalculator />,
+  "Area Calculator": <AreaCalculator />,
+  "Hectare To Biswa": <HectareToBiswa />
+  
 };
 
 export default function Chat() {
